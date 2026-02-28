@@ -37,3 +37,6 @@ I primarily architected the **Core System Template** and solved several algorith
 * **李承彥 (Department of Electrical Engineering, NTU)**: Main game logic, system flow, and crawler modification.
 * **李柏宇 (Department of Electrical Engineering, NTU)**: Character and background digital illustrations.
 * **戴瑞哲 (Department of Electrical Engineering, NTU)**: Initial crawler development and poster design.
+
+## 📄 Documentation
+* [Project Presentation (PDF)](docs/Project_Presentation.pdf) - Detailed overview of the project and design concepts.
