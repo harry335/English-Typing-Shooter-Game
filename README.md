@@ -40,3 +40,7 @@ I primarily architected the **Core System Template** and solved several algorith
 
 ## 📄 Documentation
 * [Project Presentation (PDF)](docs/Project_Presentation.pdf) - Detailed overview of the project and design concepts.
+
+## 📺 Gameplay Demo
+[![Watch the Demo](https://img.youtube.com/vi/Jj1duX9HpQE/0.jpg)](https://youtu.be/Jj1duX9HpQE)
+*點擊上方圖片即可觀看遊戲演示影片 (YouTube)*
